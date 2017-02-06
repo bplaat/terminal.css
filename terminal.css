@@ -1,0 +1,6 @@
+/* Made by Bastiaan van der Plaat (http://bastiaan.plaatsoft.nl) */
+body{margin:0;font:14px/1.5 monospace;background-color:#000;color:#fff}h1,h2,h3,hr,p,ul,table{font-size:inherit;margin:0 0 1.5em}
+a{color:#e16}a:hover,a.active{background-color:#e16;color:#fff}h1{display:inline-block;border-bottom:4px double}h2:before{content:"## "}h3:before{content:"### "}
+.container{max-width:57em;margin:auto;padding:1.5em}:last-child{margin-bottom:0}hr{border:0;border-bottom:1px dashed}
+ul{padding:0;list-style-type:none}li{position:relative;padding-left:1.5em}li:before{position:absolute;top:0;left:0;content:"-"}
+table{width:100%;border-collapse:collapse}td,th,.alert{padding:1em;border:1px solid}.alert{color:#29f}.error{color:#f43}
