@@ -5,4 +5,4 @@ Simple terminal like CSS framework
 Include the terminal.css stylesheet and play
 
 ## Demo
-Want to see it check the [demo](http://terminalcss.ml)
+Want to see it check the [demo](https://bastiaan.plaatsoft.nl/terminal.css.html)
